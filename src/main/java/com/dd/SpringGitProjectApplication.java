@@ -10,6 +10,7 @@ public class SpringGitProjectApplication {
 		SpringApplication.run(SpringGitProjectApplication.class, args);
 		System.out.println("1-java");
 		System.out.println("2-java");
+		System.out.println("3-java");
 	}
 
 }
